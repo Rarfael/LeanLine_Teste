@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Projetos\Leanline\LeanLineTest\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="38099182ac57b6b10ad781b8ba0994cce0b75b1c">
+        <dex dex="D:\Projetos\Leanline\LeanLineTest\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_224613599dfc2a23c769adaf208114fdc9f4d682\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rafael\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="D:\Projetos\Leanline\LeanLineTest\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_9f2dcc7b351c53bac65cef1ce8fbf9ab52aa0d45\classes.dex" />
+    </item>
+    <item
+        jar="D:\Projetos\Leanline\LeanLineTest\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\Projetos\Leanline\LeanLineTest\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_498e15c25a12b15e5993c1338b5fe651d2729ef3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rafael\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\Projetos\Leanline\LeanLineTest\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_e49f3bb1d79a7fc0d901a18015e35561496187bb\classes.dex" />
+    </item>
+    <item
+        jar="D:\Projetos\Leanline\LeanLineTest\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\Projetos\Leanline\LeanLineTest\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_b7a8c2d550c60058c1e05e3ca5f0fae0b7538d79\classes.dex" />
+    </item>
+    <item
+        jar="D:\Projetos\Leanline\LeanLineTest\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="762ad4fdce4faab46bedf2ed8cd92f0f625b2e30">
+        <dex dex="D:\Projetos\Leanline\LeanLineTest\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_231e0ff7b6cd24a41327f76aa06254cb5eede8e5\classes.dex" />
+    </item>
+    <item
+        jar="D:\Projetos\Leanline\LeanLineTest\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\Projetos\Leanline\LeanLineTest\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_f6d5ca39e6e00c6a17c10561996673a33a8e3bb1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rafael\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\Projetos\Leanline\LeanLineTest\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_334286691f7a4a8c02594b867ddcf815ee35e815\classes.dex" />
+    </item>
+
+</items>

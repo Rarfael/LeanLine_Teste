@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:gravity="center"
+    tools:context="com.parse.starter.activity.LoginActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edit_loginUserId"
+        android:padding="14dp"
+        android:layout_marginTop="152dp"
+        android:inputType="textPersonName"
+        android:textColor="#263238"
+        android:hint="Usuário"
+        android:textColorHint="#263238"
+        android:background="@drawable/fundo_caixa_texto"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:typeface="monospace" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:textColor="#263238"
+        android:hint="Senha"
+        android:textColorHint="#263238"
+        android:padding="14dp"
+        android:ems="10"
+        android:id="@+id/edit_senhaUserId"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/fundo_caixa_texto"
+        android:layout_below="@+id/edit_loginUserId"
+        android:layout_centerHorizontal="true"
+        android:typeface="monospace" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/botao_logar"
+        android:padding="15dp"
+        android:id="@+id/buttonLogarId"
+        android:layout_marginTop="23dp"
+        android:layout_below="@+id/edit_senhaUserId"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:typeface="monospace"
+        android:textSize="30dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/crie_conta"
+        android:id="@+id/crieContaId"
+        android:layout_below="@+id/buttonLogarId"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:textColor="#263238"
+        android:onClick="cadastrarUsuario" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="login"
+        android:id="@+id/textView"
+        android:layout_marginTop="30dp"
+        android:textColor="#263238"
+        android:typeface="monospace"
+        android:textSize="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
